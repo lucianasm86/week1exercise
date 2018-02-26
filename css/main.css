@@ -1,0 +1,45 @@
+/* Your CSS styling goes here. For example:
+
+h1 {
+	color: pink;
+	font-size: 50px;
+}
+
+*/
+ul {
+  background-color: grey;
+  margin: 20px;
+  padding: 30px;
+}
+
+li {
+  background-color: white;
+  display: inline-block;
+  padding: 30px;
+}
+div {
+  display: inline-block;
+  width: 40%;
+}
+
+img {
+  width: 60%;
+  margin: 30px;
+  border: 25px;
+  padding: 5px;
+}
+.html {
+  background-color: #2ba8e0;
+}
+.css {
+  background-color: #ee6526;
+}
+body {
+  text-align: center;
+}
+.new {
+  background-color: purple;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
